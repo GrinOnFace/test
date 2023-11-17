@@ -18,6 +18,6 @@ var majorityElement = function(nums) {
         }
     }
     return array
-};
+};g
 
 console.log(majorityElement([2,3,3]))
